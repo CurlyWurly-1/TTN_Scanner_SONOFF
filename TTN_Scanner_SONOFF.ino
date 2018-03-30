@@ -11,7 +11,7 @@
 #define LED_PIN_BUTTON 15
 #define maxCount 5
 #define stepDelay 300
-#define my_SSID  "ASUS_TECH"
+
 
 int x;
 int status_count;
